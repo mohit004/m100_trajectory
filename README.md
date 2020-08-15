@@ -1,6 +1,6 @@
 # m100_trajectory
 ROS package to generate the desired trajectory to traverse a wall (from top-left to bottom-right) while maintaining a specific distance from it.\
-This trajectory code is incorporated for scanning of an outdoor outcrop, as done in the following work. Please don't forget to cite if you use the code in your work.
+This trajectory code is incorporated for scanning of an outdoor Rødal chalk quarry in Denmark, as done in the following work. Please don't forget to cite if you use the code in your work.
 
 **Plain text:**
 ```
